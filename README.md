@@ -11,8 +11,8 @@ This is my first reinforcement learning model !
 * [Further development ideas](#further-development-ideas)
 
 ## General info
-I have been playing chess since primary school and one day I had an idea to implement chess in Python. Then, I came across a tutorial by Eddie Sharick, who made a whole 16 episodes series covering the topic.
-This repository is a result of following his videos,  sometimes coming up with some improvements on my own. Hereby, I highly
+Being a chess player with 1300 elo on chess.com, I woundered about how these chess bots play so well? how do they think?. Then, I came across a tutorial by Eddie Sharick, who made a whole 16 episodes series covering the topic.
+This repository is a result of following his videos. Hereby, I highly
 encourage you to visit his YouTube channel and check the whole series by yourself.
 
 [Eddie's YouTube channel](https://www.youtube.com/channel/UCaEohRz5bPHywGBwmR18Qww)
