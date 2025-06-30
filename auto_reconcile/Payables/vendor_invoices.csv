@@ -1,0 +1,5 @@
+InvoiceNo,VendorName,Amount,Description
+VINV001,Alpha Ltd,7000,Cloud services renewal
+VINV002,Beta Solutions,4500,Equipment maintenance
+VINV003,Gamma L.,5000,Cloud renewal
+VIN004,Delta Corp,3000,Software license renewal
