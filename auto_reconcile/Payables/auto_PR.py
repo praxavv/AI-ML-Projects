@@ -38,7 +38,7 @@ for _, invoice in vendor_invoices.iterrows():
                 'MatchedWithPaymentID': payment['PaymentID'],
                 'VendorName': invoice['VendorName'],
                 'MatchedAmount': payment['Amount'],
-                'MatchScore': combined_score
+                'MatchScore': round(combined_score, 3)
             })
             remaining_amount -= payment['Amount']
 
