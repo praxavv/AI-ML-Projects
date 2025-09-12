@@ -1,0 +1,22 @@
+{
+  "total_rows": 12359200,
+  "shape": [
+    12359200,
+    12
+  ],
+  "column_count": 12,
+  "columns": [
+    "station_id",
+    "station_name",
+    "country_code",
+    "date",
+    "temp_c",
+    "dewp_c",
+    "wind_speed_m_s",
+    "visibility_km",
+    "precipitation_mm",
+    "pressure_hpa",
+    "latitude",
+    "longitude"
+  ]
+}
