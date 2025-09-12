@@ -1,4 +1,4 @@
-This is a single repo for most of my python scripts.
+This repo is for most of my AI/ML projects.
 
 1. auto_reconcile folder is an automation of accounts payable/receivable reconciliation. Clone and run it by installing necessary libraries.
 
